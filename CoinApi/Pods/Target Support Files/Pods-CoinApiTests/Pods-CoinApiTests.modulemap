@@ -1,6 +1,0 @@
-framework module Pods_CoinApiTests {
-  umbrella header "Pods-CoinApiTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
