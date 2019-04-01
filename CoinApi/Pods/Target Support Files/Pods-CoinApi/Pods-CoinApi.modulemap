@@ -1,0 +1,6 @@
+framework module Pods_CoinApi {
+  umbrella header "Pods-CoinApi-umbrella.h"
+
+  export *
+  module * { export * }
+}
